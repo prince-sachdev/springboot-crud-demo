@@ -4,7 +4,7 @@
 
   <groupId>com.demo.springboot.crud</groupId>
   <artifactId>springboot-crud-demo</artifactId>
-  <version>0.0.1-SNAPSHOT</version>
+  <version>0.0.1</version>
   <packaging>jar</packaging>
 
 	<parent>
