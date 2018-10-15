@@ -17,3 +17,6 @@ phases:
 artifacts:
   files:
     - target/springboot-crud-demo-0.0.1-SNAPSHOT.jar
+cache:
+  paths:
+    - '/root/.m2/**/*'
